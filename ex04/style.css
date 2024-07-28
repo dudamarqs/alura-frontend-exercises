@@ -1,0 +1,5 @@
+/*Estilizando elementos com classes CSS*/
+.texto-destaque {
+    background-color: darkmagenta;
+    color: yellow;
+}

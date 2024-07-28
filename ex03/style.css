@@ -1,0 +1,25 @@
+/*testando paleta de cores no css*/
+
+header {
+    color: #d3e5ff;
+}
+
+body {
+    background-color: #3222C9;
+}
+
+h1 {
+    color: #9ac2ff;
+}
+
+h2 {
+    color: #3D87F4;
+}
+
+h3 {
+    color: #146ef6;
+}
+
+p {
+  color: #113b7a;  
+}

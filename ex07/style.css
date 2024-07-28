@@ -1,0 +1,10 @@
+/*Reset com CSS*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 150px;
+    border: 10px solid purple
+}

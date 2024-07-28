@@ -1,0 +1,4 @@
+/*Controlando Overflow com Box Sizing*/
+body {
+    box-sizing: border-box;
+}

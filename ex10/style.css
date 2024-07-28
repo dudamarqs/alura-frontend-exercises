@@ -1,0 +1,10 @@
+/*Criando um layout sem scroll*/
+/*Alinhando textos e imagens*/
+body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    
+}

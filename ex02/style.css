@@ -1,0 +1,25 @@
+/*testando paleta de cores no css*/
+
+body {
+    background-color: lightslategray;
+}
+
+header {
+    color: white;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: rgb(48, 47, 47);
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: royalblue;
+}

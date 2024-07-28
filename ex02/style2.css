@@ -1,0 +1,25 @@
+/*testando paleta de cores no css*/
+
+header {
+    color: lightseagreen;
+}
+
+body {
+    background-color: indigo;
+}
+
+h1 {
+    color: hotpink;
+}
+
+h2 {
+    color: gainsboro;
+}
+
+p {
+    color: blue;
+}
+
+a {
+    color: royalblue;
+}
